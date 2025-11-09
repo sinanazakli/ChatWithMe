@@ -11,7 +11,7 @@ OPENAI_API_KEY = os.getenv("OPEN_AI_APP_KEY")
 st.set_page_config(page_title="MELSIN-Chatbot", layout="centered")
 
 # Show title and description.
-st.title(page_title="MELSIN-Chatbot")
+st.title("MELSIN-Chatbot")
 st.write(
     "This is a simple chatbot that uses OpenAI's GPT-3.5 model to generate responses."
 )
