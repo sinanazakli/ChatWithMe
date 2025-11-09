@@ -1,3 +1,7 @@
+# My Python.gitignore
+.env
+
+# Streamlit Standart ignore file
 .streamlit/secrets.toml
 
 # Byte-compiled / optimized / DLL files
