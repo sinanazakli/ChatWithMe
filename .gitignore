@@ -1,3 +1,5 @@
+.gitignore
+openai-key-test-2.py
 .env
 .streamlit/secrets.toml
 
