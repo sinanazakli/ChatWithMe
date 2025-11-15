@@ -1,6 +1,5 @@
 import streamlit as st
 from openai import OpenAI
-# get key from .env file
 from dotenv import load_dotenv
 import os
 
@@ -17,6 +16,7 @@ st.write(
 # Ask user for their OpenAI API key via `st.text_input`.
 # Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
 # via `st.secrets`, see https://docs.streamlit.io/develop/concepts/connections/secrets-management
+
 # get key from .env file
 default_api_key = os.getenv("OPENAI_API_KEY", "")
 if not default_api_key:
