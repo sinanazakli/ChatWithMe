@@ -1,9 +1,5 @@
 .gitignore
-openai-key-test-2.py
-.env
-.streamlit/secrets.toml
-a_streamlit_app.py
-sam/json/questions.json
+
 
 
 
