@@ -1,0 +1,19 @@
+{
+  "categories": {
+    "Category 1": [
+      {"question": "Question 1", "answer": "Answer for 1", "answered": false}
+    ],
+    "Category 2": [
+      {"question": "Question 2", "answer": "Answer for 2", "answered": false}
+    ],
+    "Category 3": [
+      {"question": "Question 3", "answer": "Answer for 3", "answered": false}
+    ],
+    "Category 4": [
+      {"question": "Question 4", "answer": "Answer for 4", "answered": false}
+    ],
+    "Category 5": [
+      {"question": "Question 5", "answer": "Answer for 5", "answered": false}
+    ]
+  }
+}
